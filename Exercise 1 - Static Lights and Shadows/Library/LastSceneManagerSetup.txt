@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Exercise 1 - Static Lights and Shadows.unity
+  isLoaded: 1
+  isActive: 1
