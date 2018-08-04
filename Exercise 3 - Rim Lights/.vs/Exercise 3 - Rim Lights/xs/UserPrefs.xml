@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{7C4F6C62-DB45-66CC-3D24-45F9FF0E271C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ScreenSpaceRimLights.cs">
+    <Files>
+      <File FileName="Assets/Shaders/ToNormal.shader" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SpritePointLight.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ScreenSpaceRimLights.cs" Line="59" Column="30" />
+      <File FileName="Assets/Shaders/RimLights.shader" Line="62" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Exercise_2203_220-_220Rim_220Lights PreferredExecutionTarget="Unity.Editor" />
+</Properties>

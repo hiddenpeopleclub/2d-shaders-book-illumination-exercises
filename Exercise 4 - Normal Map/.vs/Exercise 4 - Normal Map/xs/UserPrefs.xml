@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{D85DAE7F-EE35-6BAB-74B5-55C511173945}|">
+  <MonoDevelop.Ide.ItemProperties.Exercise_2204_220-_220Normal_220Map.Editor PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Editor/CreateNormal.cs">
+    <Files>
+      <File FileName="Assets/Editor/CreateNormal.cs" Line="45" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

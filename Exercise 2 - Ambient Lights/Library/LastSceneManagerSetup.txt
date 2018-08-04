@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/Exercise 2 - Ambient Lights.unity
-  isLoaded: 1
-  isActive: 1
